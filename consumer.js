@@ -1,6 +1,7 @@
 //const Kafka = require("kafkajs").Kafka
 const {Kafka} = require("kafkajs")
 
+
 run();
 async function run(){
     try
